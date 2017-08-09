@@ -1,0 +1,40 @@
+/*Header. Blue Buttons Above Header, Hide on IE7*/
+
+/*Account Menu*/
+
+.currentMenu{
+  margin-bottom:38px !important;
+  background: none !important;
+  border: none !important;
+}
+#top-menu{
+  height:auto !important;
+  z-index: 999;
+}
+.menu-item {
+	padding-right: 0px !important;
+}
+
+#inShoppingCart, #selectShopping, #placeOrder, #selectGroup {
+	margin-top: 6px !important;
+}
+
+#top-menu .menuButtonFloat .ui-button {
+	height: 25px !important;
+} 
+
+#submitMenuSearch {
+	margin-top: none !important;
+	margin-bottom: 6px !important;
+}
+#vendorfuel_search {
+	margin-top: 20px !important;
+}
+.sub-menu {
+	border: none !important;
+}
+#top-menu .ui-widget-header {
+	background: none !important;
+	background-color: #E8641B !important;
+	filter: none !important;
+}

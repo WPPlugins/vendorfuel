@@ -1,0 +1,1 @@
+vfuel.execute('account','generateRegistrationForm',{},null); 

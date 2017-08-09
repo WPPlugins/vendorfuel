@@ -1,0 +1,1 @@
+WordPress administrator privileges are required to manage the vendorfuel settings.

@@ -1,0 +1,1 @@
+[vf-template name="orders"]

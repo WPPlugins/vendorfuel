@@ -1,0 +1,154 @@
+/*Header. Blue Buttons Above Header, Hide on IE7*/
+.s_list_1{
+  display:none;
+}
+
+#header{
+ margin-bottom:25px;
+}
+
+/* Fix Footer Color*/
+#footer_nav{
+  background: #01395A;
+  float: none;
+  clear: both;
+}
+
+#footer_nav .menu{
+ float:none;
+ clear:both;
+}
+
+.reorderColumn{
+ float:right;
+ margin-top:-85px;
+}
+
+.orderColumn{
+ /*float:left;*/
+}
+
+
+/*Account Menu*/
+#TopAccountMenu{
+  height:auto !important;
+  overflow:visible !important;
+  position:relative !important;
+}
+
+.btnAddToCart{
+ width:125px !important;
+}
+
+.qty-input{
+ width:20px !important;
+}
+
+.btnProductAddToCart{
+ width:140px;
+float:left;
+}
+
+.btnProductFavorite{
+ width:140px;
+float:left;
+}
+
+
+.currentMenu{
+  overflow:hidden !important;
+  margin-bottom:38px !important;
+}
+
+#top-menu{
+  height:auto !important;
+  oveflow:visible !important;
+  position:relative !important;
+  background:none !important;
+}
+
+#menuSearchIn{
+  height:20px;
+}
+
+#btnLogin{
+ width:80px;
+ float:left;
+}
+
+#submitMenuSearch{
+  height:30px !important;
+  margin-top:-6px !important;
+}
+
+/* Shopping Cart*/
+#inShoppingCart{
+  height:30px !important;
+}
+
+#save_new_cart{
+  width:58px;
+  float:left !important;
+}
+
+#btnClearCart{
+  width:58px;
+  float:left !important;
+}
+
+#btnUpdateCart{
+  width:64px;
+float:left !important;
+}
+
+#btnCheckout{
+ width:88px;
+ float:left !important;
+}
+
+.btn-cart-options{
+ width:800px;
+}
+
+/*Search*/
+#menuSearchForm{
+  margin-bottom:0px;
+}
+
+#vendorfuel_search{
+  width:260px
+}
+
+#vfuel_search_q{
+  float:left;
+  display:inline !important;
+  height:20px;
+}
+
+#vfuel_buttonSearch{
+  float:right;
+  display:inline !important;
+}
+
+
+/*General*/
+input[type="text"] {
+    height:20px;
+}
+
+input[type="password"] {
+    height:20px;
+}
+
+/*Checkout*/
+#btnAddShippingAddress{
+  width:80px;
+}
+
+#btnAddBillingAddress{
+  width:80px;
+}
+
+.ui-dialog{
+  width:800px !important;
+}
